@@ -62,12 +62,10 @@ body {
   text-align: center;
   font-family: copperplate, papyrus, fantasy;
 }
-.hobbies { text-align: center; }
-ul { display: inline-block; text-align: left; font-family: copperplate, papyrus, fantasy;}
-td {border: 1px solid #000}
-table {
-    border-collapse: collapse
-}
 
+.hobbies{
+  width: 400px;margin:0 auto;
+    text-align:left;font-family: copperplate, papyrus, fantasy;
+}
 
 
