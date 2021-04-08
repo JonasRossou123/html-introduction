@@ -1,2 +1,3 @@
 # html-introduction
-https://github.com/JonasRossou123/html-introduction.git
+Link to project:
+https://jonasrossou123.github.io/html-introduction/
