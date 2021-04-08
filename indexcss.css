@@ -65,6 +65,8 @@ body {
   font-family: copperplate, papyrus, fantasy;
 }
 
+td {border:2px solid black;} 
+
 .hobbies{
   width: 450px;margin:0 auto;
     text-align:left;font-family: copperplate, papyrus, fantasy;
